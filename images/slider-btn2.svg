@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 112" width="33" height="112">
+	<title>slider</title>
+	<defs>
+		<image  width="33" height="112" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAABwCAMAAACn6OkPAAAAAXNSR0IB2cksfwAAADNQTFRF////////////////////////////////////////////////////////////////////5RDoRwAAABF0Uk5TEAAwcK/v/yCAUJ+/QM+PYN+HzfuJAAABrUlEQVR4nK3X2XbCMAwEUDkr8P8f2lMKgZLEdVbsWJrhoXm+J7EUL2MnTvDjCs9EOTJRDUzUPRON+2WieDLhyWdcI+WDiRFXE4TgsU6i6pjAL5lFfWcClrMI1JNFoMGuQpobE/5lzbVN2PXsQgZjsr2FNZRI+EJtbSSk/WFCH20i5HRlQs7fTCj/8CjymjPhB09E1pZcyOXLEXHonCbSzqkimXK6iDtniKhzlpDeM7FPXFPsBdlimwpArD8RiWWtIrHsTlDMJWMx/UMsptYSEV5CRNjimKg6JnzPhDgqSioGKgoqTv/wjjMVDe3Yi4mRVls+iAgfISIc11hMCw+L6cSHor06sqLaadEhsaQKIOqbw2Lbem2x7VOm2KONJd77pSHmTiARb+2qSE4QTfgqPqg0kR52ijhEuFwcT9RMVHeHRdQIXVy6LB2kIjtKM6GlrkSoUTUWeuSKRF7GQWijTAXNUmbu+zzT2flzFSBNr/lUD2uRQLl/FofUogirFbuAr5gFvn0EYTdrE1pcTEWPb2Ou0XNrLPgtiXzkk9sav/GdyDDEnfFNLIiWXAnlD/TrjyQ2FudeAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<g id="slider">
+		<g id="Slider">
+			<use id="-e-" href="#img1" x="0" y="0"/>
+		</g>
+	</g>
+</svg>
